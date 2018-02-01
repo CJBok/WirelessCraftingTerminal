@@ -1,0 +1,4 @@
+[submodule "p455w0rdslib"]
+	path = p455w0rdslib
+	url = https://github.com/p455w0rd/p455w0rds-Library/
+	branch = 1.12
